@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Greatdammy
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning html,css and javascript 
-- 💞️ I’m looking to collaborate on building of websites 
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning javascript, and object oriented programming 
+- 💞️ I’m open to internship oppotunities
 - 📫 How to reach me damimmanuel7@gmail.com 
 
 <!---
